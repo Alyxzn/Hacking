@@ -78,3 +78,6 @@ try:
 except KeyboardInterrupt:
     print(f'{Fore.GREEN}Script Detenido por el usuario{Style.RESET_ALL}')
     pass
+    
+    
+//Este script fue hecho con la ayuda de @ElPinguinoDeMario en Youtube.
